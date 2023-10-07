@@ -5,7 +5,7 @@
 int main()
 {
     int sum = 1, n, x;
-    printf("Enter The Value of X : \n");
+    printf("Enter The Value of X :: \n");
     scanf("%d", &x);
     printf("Enter The Value of N : \n");
     scanf("%d", &n);
